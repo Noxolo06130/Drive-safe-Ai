@@ -119,3 +119,8 @@ Potential future improvements identified in the project include:
 - Adding cloud-based storage for trip reports
 - Expanding fleet-level analytics
 - Further improving the system's fatigue detection capabilities
+
+## Project Resources
+
+- 📄 [Project Documentation](./Driver%20AI%20Monitoring%20System%20Documentation.pdf)
+- 🖼️ [Application Screenshots](./DriveSafe_AI_Screenshots.zip)
